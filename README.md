@@ -2,7 +2,7 @@
 
 Reinforcement Learning is seeing significant advances. There are evolving disciplines related to RL - like Imitation and Inverse Learning, Derivative free methods, Transfer and Multi Task Learning as well as Meta Learning. RL is finding increasing use in very diverse applications ranging from Health Care, Autonomous Vehicles, Robots, Finance and e-commerce as well as various other fields. 
 
-I have written a book which covers all the aspects of RL combined with Deep Learning which covers the theory and implementations right from the very basic algorithms to the advanced ones. It is getting ready to be published in coming April. [You can checkout the details here.](https://www.apress.com/gp/book/9781484268087)
+I have written a book which covers all the aspects of RL combined with Deep Learning which covers the theory and implementations right from the very basic algorithms to the advanced ones. It is getting ready to be published in coming April 2021. [You can checkout the details here.](https://www.apress.com/gp/book/9781484268087)
 
 
 In addition, here is a hand picked list of best material to master the field of Reinforcement Learning. I have also summarized my take (strictly my impression) on each of these resources.
